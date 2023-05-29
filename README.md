@@ -1,16 +1,20 @@
-# todo
+# Flutter To Do Web Application
+ - Adding of daily tasks.
+ - Deletion of tasks.
+ - Searching of tasks.
+ - Check Boxing the Completion of tasks.
 
-A new Flutter project.
+## Sample Link
+-https://flutter-to-do-v10.web.app
 
-## Getting Started
+## Languages Used
+- Dart
+- HTML, CSS
 
-This project is a starting point for a Flutter application.
+## Frame Works Used
+- Firebase for Deployment
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## IDE's Used
+- Visual Studio Code
+- Android Studio
+- Android Emulator
